@@ -74,8 +74,8 @@
     </ItemGroup>
     <ItemGroup>
       <PackageReference Include="Xamarin.Essentials" Version="1.3.0-pre" />
-      <PackageReference Include="Clancey.Comet.Reload" Version="0.0.9-alpha"/>
-      <PackageReference Include="Clancey.Comet" Version="0.1.7364-beta"/>
+      <PackageReference Include="Clancey.Comet.Reload" Version="0.0.9-alpha" />
+      <PackageReference Include="Clancey.Comet" Version="0.1.7364-beta" />
     </ItemGroup>
     <ItemGroup>
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
@@ -143,7 +143,7 @@
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\SpeedOfLight\SpeedOfLight.csproj">
-        <Project>{DC8AAC73-C9C3-4936-9F2B-EC8906A3A7E0}</Project>
+        <Project>{032FBFD0-7AD6-4B97-8372-B94141CEA15C}</Project>
         <Name>SpeedOfLight</Name>
       </ProjectReference>
     </ItemGroup>
