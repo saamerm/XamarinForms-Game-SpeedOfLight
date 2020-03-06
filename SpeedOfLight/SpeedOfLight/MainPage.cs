@@ -10,10 +10,10 @@ namespace SpeedOfLight
         [Body]
         View body() => new VStack
         {
-            new Text(() => $"Value: {count.Value}")
+            new Text(() => $"aValaasaue: {count.Value}")
                 .Color(Color.Black)
                 .FontSize(32),
-            new Comet.Button("Increment", () => count.Value ++ )
+            new Button("Incasaraaeamsent", () => count.Value ++ )
                 .Frame(width:320, height:44)
                 .Background(Color.Black)
                 .Color(Color.White)
